@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>my first HTML Webpage - part 2</title>
+	<head>
+	<body>
+		<!--This is a comment it will not be visible in our web documents -->
+
+		<!--Headings -->
+		<h1>Headings 1 </h1>
+		<h2>Headings 2 </h2>
+		<h3>Headings 3 </h3>
+		<h4>Headings 4 </h4>
+		<h5>Headings 5 </h5>
+		<h6>Headings 6 </h6>
+		
+		<!-- Paragraph -->
+		<p>This is the first paragraph here in my first web page.</p>
+		<p>This is the second paragraph here in my first web page.</p>
+		<p>
